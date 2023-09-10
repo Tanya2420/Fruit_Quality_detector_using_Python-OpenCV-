@@ -1,1 +1,1 @@
-# Fruit_Quality_detector_using_Python-OpenCV-
+# Fruit_Quality_detector_using_Python and openCV
